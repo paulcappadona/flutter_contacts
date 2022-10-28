@@ -3,7 +3,7 @@ version '1.0-SNAPSHOT'
 
 buildscript {
     ext.kotlinx_version = '1.6.4'
-    ext.kotlin_version = '1.7.20'
+    ext.kotlin_version = '1.5.31'
     repositories {
         google()
         jcenter()
